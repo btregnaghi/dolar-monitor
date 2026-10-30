@@ -4,7 +4,7 @@ Dashboard de cotizaciones del dólar (oficial, blue, MEP, CCL, mayorista,
 cripto y tarjeta) que **se actualiza solo todos los días** y publica los
 resultados como página web — sin servidores, sin costo de infraestructura.
 
-**🔗 Dashboard en vivo:** https://xerdan18.github.io/dolar-monitor/
+**🔗 Dashboard en vivo:** https://btregnaghi.github.io/dolar-monitor
 
 ## Cómo funciona
 
